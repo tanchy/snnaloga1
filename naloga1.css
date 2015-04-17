@@ -1,0 +1,51 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+#menu {
+    color: white;
+    background-color: black;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+        
+}
+
+#vsebina {
+    width: 90%;
+    margin: auto;
+    background-color: silver;
+}
+
+h1 {
+    padding: 20px 30px;
+    color: navy;
+    font-size: 40px ;
+}
+
+#podvsebina {
+    padding-bottom: 15px ;
+}
+
+.kvadrat {
+    background-color: navy;
+    width: 430px;
+    height: 430px;
+    float: left;
+    margin-left: 20px;
+    color: white ;
+}
+
+.pocisti {
+    clear: both;
+}
+
+#noga {
+    background-color: maroon;
+    padding-left: 15px ;
+    padding-top: 10px;
+    height: 330px ;
+    color: white ;
+}
+    
